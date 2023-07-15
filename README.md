@@ -1,7 +1,6 @@
 # Shortest Path Finder App
- Live Link: [App](https://dynamic-liger-b8b05d.netlify.app/).
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ Live Link: [Shortest Path](https://dynamic-liger-b8b05d.netlify.app/).
+ 
 ## Available Scripts
 
 In the project directory, you can run:
